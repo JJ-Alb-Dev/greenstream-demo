@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "cookie-parser": "^1.4.7",
-    "cors": "^2.8.7",
+    "cors": "^2.8.6",
     "express": "^4.21.2",
     "jspdf": "^2.5.2",
     "lucide-react": "^0.468.0",
